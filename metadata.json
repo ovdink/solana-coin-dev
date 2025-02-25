@@ -1,0 +1,6 @@
+{
+  "name": "V dev Token",
+  "symbol": "VDT",
+  "description": "Test dev token",
+  "image": "https://raw.githubusercontent.com/ovdink/solana-coin-dev/refs/heads/main/coin-image.png"
+}
